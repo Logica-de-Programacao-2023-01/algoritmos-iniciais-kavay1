@@ -1,0 +1,7 @@
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números
+como entrada e retorna a soma desses dois números.
+
+01. leia x
+02. leia y
+03. z = x + y
+04. escreva z
